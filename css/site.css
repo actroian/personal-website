@@ -1,10 +1,11 @@
 /* SITEWIDE */
 .header {
-    font: 1000;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: monospace;
+    font-size: large;
+    font-weight: bold;
 }
 
-.h1 {
-    font: 1000;
-    font-family: 'Times New Roman', Times, serif;
+a.nodecoration {
+    text-decoration: none;
+    color: black;
 }
