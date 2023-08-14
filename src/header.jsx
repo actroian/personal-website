@@ -5,7 +5,7 @@ import './index.css'
 function SubHeader() {
   return (
     <>
-    
+      <p>placeholder</p>
     </>
   )
 }
