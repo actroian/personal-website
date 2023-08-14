@@ -1,5 +1,4 @@
 import React from 'react'
-import ReactDOM from 'react-dom/client'
 import './index.css'
 
 function SubHeader() {
@@ -29,10 +28,10 @@ function Header() {
             </a>
           </div>
           <div class="externalLinks">
-            <a class="nodecoration" href="https://www.linkedin.com/in/adamtroiani" target="_blank">
+            <a href="https://www.linkedin.com/in/adamtroiani" target="_blank">
               <img class="w-10 h-10" src="./src/assets/linkedin.png"/>
             </a>
-            <a class="nodecoration" href="https://github.com/actroian" target="_blank">
+            <a href="https://github.com/actroian" target="_blank">
               <img class="w-10 h-10" src="./src/assets/github.png"/>
             </a>
           </div>
