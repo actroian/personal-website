@@ -20,9 +20,9 @@ function Header() {
           </a>
         </div>
         <ul class="bg-red-500 h-min w-min flex">
-          <li><a class="pl-2 pr-2 cursor-pointer">Projects</a></li>
-          <li><a class="pl-2 pr-2 cursor-pointer">Resumé</a></li>
-          <li><a class="pl-2 pr-2 cursor-pointer">Contact</a></li>
+          <li><a href="projects.html" class="pl-2 pr-2 cursor-pointer">Projects</a></li>
+          <li><a href="resume.html" class="pl-2 pr-2 cursor-pointer">Resumé</a></li>
+          <li><a href="contact.html" class="pl-2 pr-2 cursor-pointer">Contact</a></li>
         </ul>
         <div class="bg-blue-500 flex h-min w-20 object-right">
           <a href="https://github.com/actroian" target="_blank">
